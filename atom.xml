@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>三错的博客</title>
+  <title>砖哥的博客</title>
   
   <subtitle>人非圣贤，谁能无错？错而能改，善莫大焉！</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://www.3keu.vip/</id>
   
   <author>
-    <name>三错</name>
+    <name>砖哥</name>
     
   </author>
   
